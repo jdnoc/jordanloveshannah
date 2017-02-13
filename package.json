@@ -1,0 +1,25 @@
+{
+	"name": "valentine-message",
+	"version": "0.0.1",
+	"description": "Send a valentine message to a loved one",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+    "express": "^4.12.4"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/teodora-n/Valentine"
+	},
+	"keywords": [
+		"node",
+		"gomix",
+		"express"
+	],
+	"license": "WTFPL"
+}
